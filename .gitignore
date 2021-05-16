@@ -1,0 +1,11 @@
+logs
+models
+sql-analytics-problem-master
+tmp
+.ipynb_checkpoints
+__pycache__
+karalama.ipynb
+notlar.txt
+data
+utils.py 
+
