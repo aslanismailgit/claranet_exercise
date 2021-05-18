@@ -1,14 +1,24 @@
 logs
 models
-sql-analytics-problem-master
 tmp
 .ipynb_checkpoints
 __pycache__
 karalama.ipynb
 notlar.txt
-data
 utils.py 
 
 SQL Analytics problem.docx
 ~$L Analytics problem.docx
 ~WRL1724.tmp
+data/keras_distil_bert_hist.csv
+data/keras_distil_bert.csv
+sql-analytics-problem-master/model/Dockerfile
+sql-analytics-problem-master/model/main.py
+sql-analytics-problem-master/model/requirements.txt
+sql-analytics-problem-master/model/artifacts/input_scaler.pkl
+sql-analytics-problem-master/model/artifacts/model.h5
+sql-analytics-problem-master/model/artifacts/output_scaler.pkl
+sql-analytics-problem-master/model/artifacts/ScoringService.dl
+sql-analytics-problem-master/model/artifacts/vectorizer.pkl
+sql-analytics-problem-master/data/tpch.sql
+sql-analytics-problem-master/README.md
